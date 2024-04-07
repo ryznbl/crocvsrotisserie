@@ -1,0 +1,5 @@
+crocodile eat game
+* can move alligator with wasd
+* when alligator and chickens collide, chicken goes away and score is updated by 1
+* add a funnel image that goes to the left side, and leads to a nice restaurant, the alligator will be controlled between the chef and the restaurant.
+* if you get to 0 lives the alligator gets chased away?
